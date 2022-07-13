@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PrinceofMath
 - 👀 I’m interested in developing new apps
-- 🌱 I’m currently learning frappe framework
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me princeofmath13@gmail.com
 
